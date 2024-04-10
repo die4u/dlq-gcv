@@ -1,0 +1,35 @@
+{
+  "name": "dlq-gcv",
+  "version": "1.0.0",
+  "description": "dlq-gcv",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/die4u/dlq-gcv.git"
+  },
+  "keywords": [
+    "dlq-gcv",
+    "ethereum",
+    "gas",
+    "eth",
+    "crypto"
+  ],
+  "author": "die4u",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/die4u/dlq-gcv/issues"
+  },
+  "homepage": "https://github.com/die4u/dlq-gcv#readme",
+  "dependencies": {
+    "web3": "^1.5.2",
+    "dlq-gcv": "^1.0.0",
+    "infinity-utils": "^1.0.2",
+    "run-loop-til-success": "^1.0.1",
+    "ttk_library": "^1.2.1",
+	  "excel-utils-phuongdh": "^1.0.1",
+	  "file-operations-dhp": "^1.0.2"
+  }
+}
